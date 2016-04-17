@@ -4,7 +4,7 @@
 
 - EDA
 - Machine Learning
-+ Sklearn Templates
+  + Sklearn Templates
 - Statistics
 
 ## EDA
