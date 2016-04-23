@@ -2,19 +2,20 @@ A collection of templates and resources for data analysis.  Resources and templa
 
 ## Templates
 
-- [Gitignore Templates](https://github.com/baumanab/gitignore)
+- [Gitignore Templates](https://github.com/github/gitignore)
 
 
 
 ## Resources
 
-- [Bad Data Guide](https://github.com/baumanab/bad-data-guide)
-- [Data Science 45 Minute Intros](https://github.com/baumanab/Data-Science-45min-Intros)
-- [Open Source Data Science Masters](https://github.com/baumanab/go)
-- [Data Science Ipython Notebooks](https://github.com/baumanab/data-science-ipython-notebooks)
-- [Open Source Data Science Resources](https://github.com/baumanab/DataScienceResources)
-- [Alfred Essa PANDAS Cookbook 1](https://github.com/baumanab/pdacookbook)
-- [Alfred Esssa PANDAS Cookbook 2](https://github.com/baumanab/pandas-cookbook)
+- [The Quartz Guide to Bad Data (repo)](https://github.com/Quartz/bad-data-guide)
+- [Data Science 45 Minute Intros (repo)](https://github.com/DrSkippy/Data-Science-45min-Intros)
+- [Open Source Data Science Masters (site)](http://datasciencemasters.org/)
+- [Open Source Data Science Masters (repo)](https://github.com/datasciencemasters/go)
+- [Data Science Ipython Notebooks (repo)](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Open Source Data Science Resources (repo)](https://github.com/jonathan-bower/DataScienceResources)
+- [Alfred Essa PANDAS Cookbook 1 (repo)](https://github.com/alfredessa/pdacookbook)
+- [Alfred Esssa PANDAS Cookbook 2 (repo)](https://github.com/alfredessa/pandas-cookbook)
 - [Udacity Data Analyst Skill Checklist](http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/UdacityUltimateSkillChecklistForYourFirstDataAnalystJob.pdf)
 
 ### Statistics
